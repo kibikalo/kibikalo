@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [pastebin api](https://github.com/kibikalo/pastebin-api)
 
-- 🌱 And learning **Spring Boot, Spring Data, Spring Security**
+- 🌱 And learning **Spring Boot**
 
 - 📫 How to reach me **kibkalob@gmail.com**
 
