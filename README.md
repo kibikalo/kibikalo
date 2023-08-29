@@ -6,7 +6,7 @@
 
 - 🌱 And learning **Spring Boot**
 
-- 📫 My Email: **kibkalob.work@gmail.com**
+- 📫 My Email: **bohdan.kibkalo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
