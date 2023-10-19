@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Bohdan</h1>
 <h3 align="center">A second-year student from Wroclaw</h3>
 
-- 🔭 I’m currently working on [pastebin api](https://github.com/kibikalo/pastebin-api)
+- 🔭 I’m currently working on [microservice application](https://github.com/kibikalo/learning-microservice-architecture)
 
-- 🌱 And learning **Spring Boot**
+- 🌱 And learning **Microservice Architecture**
 
 - 📫 My Email: **bohdan.kibkalo@gmail.com**
 
