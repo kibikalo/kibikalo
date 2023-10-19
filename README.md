@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Bohdan</h1>
-<h3 align="center">A second-year student from Wroclaw</h3>
+<h3 align="center">A third-year student from Wroclaw</h3>
 
 - 🔭 I’m currently working on [microservice application](https://github.com/kibikalo/learning-microservice-architecture)
 
